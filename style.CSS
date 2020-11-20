@@ -41,13 +41,12 @@
 			}
 #label{
 	text-align: center;
-	padding-left: 29%;
+	
 	margin-top: 15%;
 }
 	#msg{
 			margin-top: 10%;
-			margin-left: 45%;
-			padding-left:0%;
+			
 			height:500px; 
 			width:800px;
 			}
