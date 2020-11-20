@@ -41,12 +41,13 @@
 			}
 #label{
 	text-align: center;
-	
+	padding-left: 29%;
 	margin-top: 15%;
 }
 	#msg{
 			margin-top: 10%;
-			
+			margin-left: 45%;
+			padding-left:0%;
 			height:500px; 
 			width:800px;
 			}
@@ -163,6 +164,7 @@
 	@media (max-width:768px){
 		.imagem{
 		position: static;
+		
 		width:300px; 
 		height:90px;
 		}
@@ -186,7 +188,7 @@
 		column-rule: 2px solid #000;
 		padding-left: 5%;
 		padding-right:30%;	
-					}
+	}
 
 	}
 
